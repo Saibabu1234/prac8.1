@@ -1,0 +1,1 @@
+hi we are in local2 file name as ex3.txt
